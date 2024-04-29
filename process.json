@@ -1,0 +1,9 @@
+{
+  "apps" : [{
+    "autorestart": false,
+    "name"   : "Indexer",
+    "script" : "./app.js",
+    "out_file": "./log/log.txt"
+  }]
+}
+
